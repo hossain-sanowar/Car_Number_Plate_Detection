@@ -3,7 +3,7 @@ A machine learning project that can detect car number plate text. In this projec
 
 
 
-# Steps which are followed
+### Steps which are followed
 1. Using OpenCV with Python, car image is read and visualised
 2. Applying color shifts and changes to images (e.g. grayscaling and BGR2RGB)
 3. Using OpenCV findCountours, contours are detectd
